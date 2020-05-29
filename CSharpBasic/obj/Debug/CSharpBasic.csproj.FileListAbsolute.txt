@@ -1,0 +1,16 @@
+C:\Automation\Execute Automation\ConsoleApplication\CSharpBasic\bin\Debug\CSharpBasic.exe.config
+C:\Automation\Execute Automation\ConsoleApplication\CSharpBasic\bin\Debug\CSharpBasic.exe
+C:\Automation\Execute Automation\ConsoleApplication\CSharpBasic\bin\Debug\CSharpBasic.pdb
+C:\Automation\Execute Automation\ConsoleApplication\CSharpBasic\obj\Debug\CSharpBasic.csprojResolveAssemblyReference.cache
+C:\Automation\Execute Automation\ConsoleApplication\CSharpBasic\obj\Debug\CSharpBasic.exe
+C:\Automation\Execute Automation\ConsoleApplication\CSharpBasic\obj\Debug\CSharpBasic.pdb
+C:\Automation\Learning\ConsoleApplication\CSharpBasic\bin\Debug\CSharpBasic.exe.config
+C:\Automation\Learning\ConsoleApplication\CSharpBasic\bin\Debug\CSharpBasic.exe
+C:\Automation\Learning\ConsoleApplication\CSharpBasic\bin\Debug\CSharpBasic.pdb
+C:\Automation\Learning\ConsoleApplication\CSharpBasic\obj\Debug\CSharpBasic.csprojAssemblyReference.cache
+C:\Automation\Learning\ConsoleApplication\CSharpBasic\obj\Debug\CSharpBasic.csproj.CoreCompileInputs.cache
+C:\Automation\Learning\ConsoleApplication\CSharpBasic\obj\Debug\CSharpBasic.exe
+C:\Automation\Learning\ConsoleApplication\CSharpBasic\obj\Debug\CSharpBasic.pdb
+C:\Automation\Learning\ConsoleApplication\CSharpBasic\bin\Debug\System.ValueTuple.dll
+C:\Automation\Learning\ConsoleApplication\CSharpBasic\bin\Debug\System.ValueTuple.xml
+C:\Automation\Learning\ConsoleApplication\CSharpBasic\obj\Debug\CSharpBasic.csproj.CopyComplete
